@@ -1,0 +1,45 @@
+/*
+CSS FILE
+*/
+body {
+	margin: 0px;
+	padding: 0px;
+	color: #000;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 13px;
+	line-height: 1.7em; 
+	background-image: url(https://i.imgur.com/4VA1qA8.jpg);
+	background-color: #000000;
+	background-position: top;
+	background-repeat: repeat-x
+}
+
+a, a:link, a:visited { color: #D9E5E4; font-weight:none;font-size:18px; text-decoration: none; }
+a:hover { color: #090A0A; font-size:18px; text-decoration: underline; }
+
+p { margin: 0 0 10px 0; padding: 0; }
+img { border: none; }
+
+h1, h2, h3, h4, h5, h6 { color: #fff; font-weight: normal; }
+h1 { font-size: 28px; margin: 0 0 30px 0; padding: 5px 0 }
+h2 { font-size: 25px; margin: 0 0 20px 0; padding: 5px 0; line-height: 30px; }
+h3 { font-size: 22px; margin: 0 0 15px; padding: 0; }
+h4 { font-size: 18px; margin: 0 0 15px; padding: 0; }
+h5 { font-size: 16px; margin: 0 0 10px; padding: 0;  }
+h6 { font-size: 14px; margin: 0 0 5px; padding: 0; }
+
+.cleaner { clear: both }
+.h10 { height: 10px }
+.h20 { height: 20px }
+.h30 { height: 30px }
+.h40 { height: 40px }
+.h50 { height: 50px }
+.h60 { height: 60px }
+
+a.button { display: block; width: 114px; height: 30px; text-align: center; padding-top: 6px; color: #CC9933; font-weight: bold; background: url(images/templatemo_button.png) }
+a.button:hover { text-decoration: none; color: #FFFFFF; }
+
+.float_l { float: left }
+.float_r { float: right }
+
+
